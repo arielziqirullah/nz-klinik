@@ -1,0 +1,50 @@
+body{
+    font-family: 'IBM Plex Sans', sans-serif !important;
+}
+
+.logo-nz{
+    height: 40px;
+    width: 40px;
+}
+
+.carousel-front img{
+    height: 600px;
+}
+
+nav .active{
+    color: 	#FF8C00 !important;
+}
+
+/* .layanan h3{
+    color: #3b566e;
+} */
+
+.layanan .card {
+    background-color: #f9d29d;
+    background-image: linear-gradient(315deg, #f9d29d 0%, #ffd8cb 74%);
+}
+
+.layanan-row .img-thumbnail{
+    max-height: 250px;
+}
+
+.produk img{
+    max-height: 300px;
+}
+
+
+#other-text{
+    display: none;
+}
+
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+}
+
+.bg-footer{
+    background-color: #284450;
+}
+
